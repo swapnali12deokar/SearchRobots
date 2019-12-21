@@ -1,5 +1,7 @@
 {
   "name": "robotfriend",
+  "homepage":"https://swapnali12deokar.github.io/SearchRobots",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,10 +13,13 @@
     "react-scripts": "3.3.0"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy":"yarn build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
