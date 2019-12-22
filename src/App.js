@@ -26,7 +26,7 @@ class App extends React.Component {
   return (
     <div className="App">
     <h1 id="header">ROBO FRIENDS</h1>
-      <input type="text" placeholder="Search Robots" onChange={(e)=>this.setState({searchfield:e.target.value})}/>
+      <input type="text" placeholder=" Search Robots" onChange={(e)=>this.setState({searchfield:e.target.value})}/>
       
       <Cardlist users={filteredRobot}>
        </Cardlist>
