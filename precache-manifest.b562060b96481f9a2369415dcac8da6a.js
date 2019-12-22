@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd0651592eaa2e2df1fb48f7e45baf3f",
+    "revision": "05421c8e0b310af0963eddc43dcfc2c2",
     "url": "/SearchRobots/index.html"
   },
   {
-    "revision": "8b24aa62f2b3aede2d90",
+    "revision": "fb4cc526d58b3e624148",
     "url": "/SearchRobots/static/css/main.ea980b5b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SearchRobots/static/js/2.773078cc.chunk.js.LICENSE"
   },
   {
-    "revision": "8b24aa62f2b3aede2d90",
-    "url": "/SearchRobots/static/js/main.aa9738be.chunk.js"
+    "revision": "fb4cc526d58b3e624148",
+    "url": "/SearchRobots/static/js/main.fc479274.chunk.js"
   },
   {
     "revision": "49106824a9fa9160850a",
